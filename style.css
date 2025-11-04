@@ -58,13 +58,13 @@ p {
   margin-bottom: 20px;
 }
 .skill-min {
-  width: 50px;
+  width: 30px;
   height: auto;
   margin-right: 12px;
   transition: transform 0.3s ease;
 }
 .skill-code {
-  width: 50px;
+  width: 30px;
   height: auto;
   margin-right: 12px;
   transition: transform 0.3s ease;
